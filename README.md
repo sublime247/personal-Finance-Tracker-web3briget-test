@@ -18,3 +18,6 @@ This is the home page
 Inputting Income
 ![Expense](assets/expense.png)
 
+Inputting Expenses (i.e Amount spent)
+![Expense](assets/expense2.png)
+
