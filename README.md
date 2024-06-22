@@ -10,4 +10,11 @@ This is a simple personal finance tracker that allows users to record and catego
 - Responsive design for usability on various devices.
 - Visual representation of income vs. expense data using a pie chart.
 .
-![Alt Text](assets/home2.png)
+
+Below are the visualization
+This is the home page
+![Home](assets/home2.png)
+
+Inputting Income
+![Expense](assets/expense.png)
+
