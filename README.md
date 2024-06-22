@@ -10,7 +10,4 @@ This is a simple personal finance tracker that allows users to record and catego
 - Responsive design for usability on various devices.
 - Visual representation of income vs. expense data using a pie chart.
 .
-
-## License
-
-This project is licensed under the MIT License.
+![Alt Text](assets/home2.png)
