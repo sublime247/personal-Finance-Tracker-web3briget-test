@@ -21,3 +21,6 @@ Inputting Income
 Inputting Expenses (i.e Amount spent)
 ![Expense](assets/expense2.png)
 
+Overall Visualization to show my total Income is more than my Expense
+![Expense](assets/expense2.png)
+
